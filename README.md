@@ -1,24 +1,25 @@
 <div align="center">
 
-# 👋 Hi, I’m Karissa!
+# ୧〳 ＾ ౪ ＾ 〵୨   Hi, I’m Karissa!
 
-**I'm a full-stack developer with a strong systems and backend focus.**  
+**I'm a full-stack developer with a backend focus.**  
 I build reliable, scalable applications across web, backend, and mobile.
+I love all things tech, and I've been a computer nerd for over 20 years!
 
 </div>
 
 ---
 
-## 🧠 What I Do
+## ੈ✩‧₊˚  What I Do
 
 - Design and implement **clean, production-ready projects**
 - Build **full-stack applications** with strong UX fundamentals
 - Develop **Android apps** using solid architecture patterns
-- Focus on **maintainability, testability, and scalability**
+- Focus on **maintainability, testability, and scalability**, as well as intuitive design
 
 ---
 
-## 🧰 Core Stack
+## ੈ✩‧₊˚  Core Stack
 
 | Area | Technologies |
 |-----|-------------|
@@ -31,36 +32,25 @@ I build reliable, scalable applications across web, backend, and mobile.
 
 ---
 
-## 🚀 Featured Projects
+## ੈ✩‧₊˚  Featured Projects
 
-### 🔹 Geo-Intel-Dashboard
+####  Geo-Intel-Dashboard
 **Tech:** Spring Boot · Angular · Rest APIs  
 **Focus:** Multi-API dashboard with real data flow.  
-➡️ https://github.com/stackdarker/geo-intel-dashboard.git
+↦ https://github.com/stackdarker/geo-intel-dashboard.git
 
 
 ---
 
-## 📈 Current Focus
+## ੈ✩‧₊˚  Current Focus
 
-- Creating planned full-stack flagship programs
+- Creating planned full-stack flagship programs (2 currenly planned)
 - API security, validation, and documentation via created microservices
 - CI/CD pipelines and containerized deployments
 
 ---
 
-## 🔗 More
+## ੈ✩‧₊˚  More
 
 - Visual portfolio & links: https://stackdarker.github.io/
 - LinkedIn: https://linkedin.com/in/stackdarker
-
----
-
-<details>
-<summary>📌 Background</summary>
-
-- Strong foundation in OOP, data structures, and system design
-- Experience across backend, frontend, mobile, and DevOps layers
-- Comfortable owning features end-to-end
-
-</details>
