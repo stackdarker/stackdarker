@@ -2,9 +2,12 @@
 
 # ୧〳 ＾ ౪ ＾ 〵୨   Hi, I’m Karissa!
 
-**I'm a full-stack developer with a backend focus.** I also love making fun and interesting, yet responsive, UI.
+**I'm a full-stack developer with a backend focus.** 
+
+I also enjoy making fun and interesting, yet responsive, UI.
+
 I build reliable, scalable applications across web, backend, and mobile.
-I love all things tech, and I've been a computer nerd for over 20 years!
+I love all things tech, and I've been a computer nerd for over 20 years. My special interests are video games and over analyzing media. 
 
 </div>
 
@@ -14,8 +17,8 @@ I love all things tech, and I've been a computer nerd for over 20 years!
 
 - Design and implement **clean, production-ready projects**
 - Build **full-stack applications** with strong UX fundamentals
-- Develop **Android apps** using solid architecture patterns
-- Focus on **maintainability, testability, and scalability**, as well as intuitive design
+- Develop **Android apps** using solid architecture patterns and a major focus on UX
+- Focus on maintainability, testability, scalability, feature heavy implementation, and intuitive design
 
 ---
 
@@ -45,7 +48,7 @@ I love all things tech, and I've been a computer nerd for over 20 years!
 ## ੈ✩‧₊˚  Current Focus
 
 - Creating planned full-stack flagship programs (2 currenly planned)
-- API security, validation, and documentation via created microservices
+- API security, validation, notification/media, and documentation via created microservices
 - CI/CD pipelines and containerized deployments
 
 ---
