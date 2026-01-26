@@ -2,7 +2,7 @@
 
 # ୧〳 ＾ ౪ ＾ 〵୨   Hi, I’m Karissa!
 
-**I'm a full-stack developer with a backend focus.**  
+**I'm a full-stack developer with a backend focus.** I also love making fun and interesting, yet responsive, UI.
 I build reliable, scalable applications across web, backend, and mobile.
 I love all things tech, and I've been a computer nerd for over 20 years!
 
@@ -52,5 +52,5 @@ I love all things tech, and I've been a computer nerd for over 20 years!
 
 ## ੈ✩‧₊˚  More
 
-- Visual portfolio & links: https://stackdarker.github.io/
+- Portfolio: https://stackdarker.github.io/
 - LinkedIn: https://linkedin.com/in/stackdarker
