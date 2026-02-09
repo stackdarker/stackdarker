@@ -37,17 +37,17 @@ I love all things tech, and I've been a computer nerd for over 20 years. My spec
 
 ## ੈ✩‧₊˚  Featured Projects
 
-####  (IN PROGRESS) Launchpad - One-Stop Resume Service/Portfolio Hosting Site
-Tech: Next.js 16 · TypeScript · Supabase · Stripe · Resend · OpenAI
-Focus: SaaS Full-stack career toolkit with ATS resume scanning, portfolio builder, and digital downloads.
+####  (IN PROGRESS) Launchpad - One-Stop Resume Service/Portfolio Hosting Site <br/>
+**Tech:** Next.js 16 · TypeScript · Supabase · Stripe · Resend · OpenAI <br/>
+**Focus:** SaaS Full-stack career toolkit with ATS resume scanning, portfolio builder, and digital downloads. <br/>
 ↦ https://github.com/stackdarker/launchpad.git
 
-####  Platform Microservices Ecosystem
-Tech: Spring Boot · PostgreSQL · Redis · MinIO · Docker · Prometheus · Grafana · Loki · Tempo
-Focus: Production-grade microservices platform with JWT auth, media storage, notifications, and full observability.
-↦ https://github.com/stackdarker/platform-infra.git
-↦ https://github.com/stackdarker/platform-auth-service.git
-↦ https://github.com/stackdarker/platform-media-service.git
+####  Platform Microservices Ecosystem <br/>
+**Tech:** Spring Boot · PostgreSQL · Redis · MinIO · Docker · Prometheus · Grafana · Loki · Tempo <br/>
+**Focus:** Production-grade microservices platform with JWT auth, media storage, notifications, and full observability. <br/>
+↦ https://github.com/stackdarker/platform-infra.git <br/>
+↦ https://github.com/stackdarker/platform-auth-service.git <br/>
+↦ https://github.com/stackdarker/platform-media-service.git <br/>
 ↦ https://github.com/stackdarker/platform-notification-service.git
 
 ####  Geo-Intel-Dashboard
